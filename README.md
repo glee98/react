@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with React-Electron-toy-project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -9,6 +9,13 @@ In the project directory, you can run:
 ### `npm install`
 
 To run this program, 'node_modules' package should be installed, which is not in this repository.
+
+### `npm install concurrently`
+
+Runs the Electron and React concurrently.
+
+#### `.env`
+This file blocks web server hosting and only runs the electron application.
 
 ### `npm run start`
 
