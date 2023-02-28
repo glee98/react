@@ -5,7 +5,7 @@ Used packages are Resizable(re-resizable), Collapse(antd), TreeView(material-ui)
 
 ### NOTE
 
-__The title bar has not yet been implemented.__\
+*__The title bar has not yet been implemented.__*\
 If you want to use the title bar now, remove the code `titlebar : "hiddenInset",` part from `./src/main.js` .
 
 ## Available Scripts
