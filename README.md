@@ -1,6 +1,8 @@
 # Getting Started with React-Electron-toy-project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project aims to create simple electron-based program named Resizable Collapse TreeView. 
+
+Used packages are Resizable(re-resizable), Collapse(antd), TreeView(material-ui).
 
 ## Available Scripts
 
