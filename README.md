@@ -1,8 +1,13 @@
-# Getting Started with React-Electron-toy-project
+# Electron-React-toy-project
 
 The project aims to create simple electron-based program named Resizable Collapse TreeView. 
 
 Used packages are Resizable(re-resizable), Collapse(antd), TreeView(material-ui).
+
+### NOTE
+
+Electron application's title bar is not customized yet. 
+If you want to use the title bar now, remove the code `titlebar : "hiddenInset",` part from `./src/main.js` .
 
 ## Available Scripts
 
@@ -35,7 +40,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-### NOTE
-
-Electron application's title bar is not customized yet. 
-If you want to use the title bar now, remove the code `titlebar : "hiddenInset",` part from ./src/main.js .
